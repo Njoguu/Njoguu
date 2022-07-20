@@ -7,7 +7,7 @@
 
 <h2>:octocat: My GitHub Stats</h2>
 <details>
- <summary>Recent activity</summary>
+ <summary>Recent Public activity</summary>
     
 <!--START_SECTION:activity-->
 
